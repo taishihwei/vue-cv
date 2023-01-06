@@ -13,7 +13,7 @@ git add -A
 git commit -m 'deploy'
 
 # 將 dist 資料夾中的內容推送至遠端分支中，並強制無條件將舊有的內容取代成目前的內容（指令 git push -f)
-git push -f https://github.com/taishihwei/vue-cv.git main:gh-pages
+git push -f https://github.com/taishihwei/vue-cv.git master:gh-pages
 cd -
 
 # 執行指令，在 Git bash 輸入 `sh deploy.sh`
