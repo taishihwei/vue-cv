@@ -1,9 +1,8 @@
 const { defineConfig } = require("@vue/cli-service");
 module.exports = defineConfig({
-	publicPath:
-		process.env.NODE_ENV === "production" ? "/vue-cv/" : "/",
-	// å•Ÿç”¨æœ¬é¸é …ï¼Œä»¥é¿å…æ§‹å»ºå¾Œçš„ç¨‹å¼ç¢¼ä¸­å‡ºç¾æœªè½‰è­¯çš„ç¬¬ä¸‰æ–¹ä¾è³´ã€‚
+	publicPath: process.env.NODE_ENV === "production" ? "/vue-cv/" : "/",
+	// ±Ò¥Î¥»¿ï¶µ¡A¥HÁ×§Kºc«Ø«áªºµ{¦¡½X¤¤¥X²{¥¼ÂàÄ¶ªº²Ä¤T¤è¨Ì¿à¡C
 	transpileDependencies: true,
-	// æ˜¯å¦åœ¨é–‹ç™¼ç’°å¢ƒä¸‹é€šé eslint-loader åœ¨æ¯æ¬¡ä¿å­˜æ™‚ lint ä»£ç¢¼ã€‚é€™å€‹å€¼æœƒåœ¨ @vue/cli-plugin-eslint è¢«å®‰è£ä¹‹å¾Œç”Ÿæ•ˆã€‚
+	// ¬O§_¦b¶}µoÀô¹Ò¤U³q¹L eslint-loader ¦b¨C¦¸«O¦s®É lint ¥N½X¡C³o­Ó­È·|¦b @vue/cli-plugin-eslint ³Q¦w¸Ë¤§«á¥Í®Ä¡C
 	lintOnSave: false,
 });
