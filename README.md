@@ -1,8 +1,10 @@
-[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
+![GitHub](https://img.shields.io/github/license/taishihwei/vue-cv)
 
-[![Github all releases](https://img.shields.io/github/downloads/taishihwei/vue-cv/total.svg)](https://github.com/taishihwei/vue-cv/releases/)
-[![GitHub forks](https://badgen.net/github/forks/taishihwei/vue-cv/)](https://github.com/taishihwei/vue-cv/network/)
-[![GitHub stars](https://badgen.net/github/stars/taishihwei/vue-cv)](https://github.com/taishihwei/vue-cv/stargazers/)
+![GitHub forks](https://img.shields.io/github/forks/taishihwei/vue-cv)
+![GitHub Repo stars](https://img.shields.io/github/stars/taishihwei/vue-cv)
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/taishihwei/vue-cv/main)
+![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/taishihwei/vue-cv/main)
 
 # vue-cv
 
@@ -35,3 +37,7 @@ npm run lint
 ### Customize configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Badge
+  - [Shields.io](https://shields.io/)
+  - [Badgen](https://badgen.net/)
