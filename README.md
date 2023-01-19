@@ -52,3 +52,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## Badge
   - [Shields.io](https://shields.io/)
   - [Badgen](https://badgen.net/)
+
+## 參考
+
+ - [資料庫應用開發實作](https://hackmd.io/@woC_xOGbT-mBcPtfbJ9Ohw/ryZ2fOQhB#%E8%B3%87%E6%96%99%E5%BA%AB%E6%87%89%E7%94%A8%E9%96%8B%E7%99%BC%E5%AF%A6%E4%BD%9C)
