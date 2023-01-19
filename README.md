@@ -56,3 +56,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ## 參考
 
  - [資料庫應用開發實作](https://hackmd.io/@woC_xOGbT-mBcPtfbJ9Ohw/ryZ2fOQhB#%E8%B3%87%E6%96%99%E5%BA%AB%E6%87%89%E7%94%A8%E9%96%8B%E7%99%BC%E5%AF%A6%E4%BD%9C)
+ - [談談前端框架](https://kuro.tw/posts/2019/07/31/%E8%AB%87%E8%AB%87%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6/)
